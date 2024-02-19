@@ -7,3 +7,6 @@ It also includes how to return the source along with the answer (with the exampl
 
 RAG_PDF_with_conversational_memory.ipynb:
 This notbook shows how to add conversational memory with RAG (local and cloud)
+
+RAG_PDF_using_agent.ipynb:
+This notebook demonstrate how to use Agent to perform RAG on PDF
